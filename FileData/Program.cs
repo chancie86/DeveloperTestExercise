@@ -39,7 +39,7 @@ namespace FileData
                 WriteHelp();
             }
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         private static void WriteHelp()
